@@ -1,0 +1,25 @@
+{
+  "name": "refactoring2nd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "statement.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machida4/refactoring2nd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machida4/refactoring2nd/issues"
+  },
+  "homepage": "https://github.com/machida4/refactoring2nd#readme",
+  "dependencies": {
+    "mocha": "^7.2.0"
+  }
+}
